@@ -10,8 +10,7 @@
 </head>
 <body>
 	<div class="contenedor">
-		<h1 class="titulo"><u>Iniciar Sesión</u></h1>
-		<br />
+		<h1 class="titulo">Iniciar Sesión</h1>
 		
 		<hr class="border">
 
