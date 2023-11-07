@@ -11,6 +11,7 @@
 <body>
 	<div class="contenedor">
 		<h1 class="titulo"><u>Iniciar Sesión</u></h1>
+		<br />
 		
 		<hr class="border">
 
